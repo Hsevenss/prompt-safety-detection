@@ -1,0 +1,16 @@
+# 数据集与大文件（体积超出 GitHub 限制 / 源语料许可）
+*.jsonl
+*.parquet
+*.bin
+train_labels.json
+embed_checkpoint.txt
+
+# 个人文档（仅本地使用）
+Prompt安全检测面试复习.md
+*.docx
+
+# 运行时与临时文件
+__pycache__/
+*.pyc
+.claude/
+1.py
